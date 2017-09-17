@@ -1,7 +1,7 @@
 /*
     Arduino ide settings;
-    Gerneric Esp8266 Module: Flash Mode: DOUT, Flash Frequency: 40MHz, CPU Frequency: 80MHz
-    Flash Size: 1M (64K SPIFFS), Debug Port: Disabled, Debug Level: None,  Reset Method: ck
+    Generic Esp8285 Module:, CPU Frequency: 80MHz
+    Flash Size: 1M (64K SPIFFS), Upload speed: 115200
 */
 
 #include <ESP8266WiFi.h>
