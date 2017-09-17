@@ -6,11 +6,7 @@ Sonoff Slampher V2 with ESP8285
 <br>ESP8255 = ESP8266 with on board 1MB flash.
 
 <b>Arduino ide settings:</b>
-<br>Gerneric Esp8266 Module
-<br>Flash Mode: DOUT
-<br>Flash Frequency: 40MHz
+<br>Gerneric Esp8285 Module
 <br>CPU Frequency: 80MHz
-<br>Flash Size: 1M (64K SPIFFS)
-<br>Debug Port: Disabled
-<br>Debug Level: None
-<br>Reset Method: ck
+<br>Flash Size: 1M (512K SPIFFS)
+<br>Upload Speed: 115200
