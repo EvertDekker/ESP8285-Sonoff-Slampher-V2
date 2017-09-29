@@ -1,7 +1,7 @@
 /*
     Arduino ide settings;
     Generic Esp8285 Module:, CPU Frequency: 80MHz
-    Flash Size: 1M (64K SPIFFS), Upload speed: 115200
+    Flash Size: 1M (512K SPIFFS), Upload speed: 115200
 */
 
 #include <ESP8266WiFi.h>
